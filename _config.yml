@@ -1,6 +1,6 @@
 name: h1dr8
 favicon: null
-layout_spectrum: 0.18017155560664833
+layout_spectrum: 0.15862
 typography_spectrum: 0.5470963746774942
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.05743502080440521
+    - '#2d3091'
+    - '#eb008a'
+    - '#8a188d'
+    - '#000000'
+    - '#ff0000'
+  brandStrength: 0.1875
   lightness: 0.6870231099892408
   saturation: 0.8370931015815586
   rhythmicContrast: 0.7758236185181886
