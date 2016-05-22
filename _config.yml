@@ -1,0 +1,28 @@
+name: h1dr8
+favicon: null
+layout_spectrum: 0.18017155560664833
+typography_spectrum: 0.5470963746774942
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.05743502080440521
+  lightness: 0.6870231099892408
+  saturation: 0.8370931015815586
+  rhythmicContrast: 0.7758236185181886
+purpose: []
